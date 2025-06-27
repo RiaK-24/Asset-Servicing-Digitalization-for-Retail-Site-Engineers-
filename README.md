@@ -7,7 +7,7 @@ This case study showcases a pilot project to digitize the asset servicing proces
 ## Project Overview
 
 - **Project Type:** Digital transformation pilot
-- **Duration:** ~3 months (pilot phase)
+- **Duration:** ~6 months (pilot phase)
 - **Methodology:** Lean UX + Agile delivery
 - **Outcome:** Real-time service updates, reduced manual entry, improved engineer experience
 - **Tech Highlights:** Mobile app, real-time sync, offline capabilities, API integration
